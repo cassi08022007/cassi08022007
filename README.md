@@ -1,0 +1,4 @@
+- 👋 oi eu sou o Cassiano ,  tenho 15 anos 
+- 👀 eu estou apredendo a criar sites em javascriptch com a professora Eliana de pensamento computacional
+- 🌱 eu gosto de jogar bola , eu estou em um time de base de curitiba 
+- 📫 email; ferreira.cassiano@escola.pr.gov.br
